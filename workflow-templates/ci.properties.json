@@ -1,0 +1,9 @@
+{
+    "name": "toj organization workflow",
+    "description": "toj organization ci starter workflow",
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
