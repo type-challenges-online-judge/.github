@@ -1,5 +1,5 @@
 {
-    "name": "TOJ 조직의 CI 워크플로우 템플릿입니다.",
+    "name": "TOJ Organization's CI workflow starter template",
     "description": "Lint, Test, Build Check",
     "filePatterns": [
         "package.json$",
