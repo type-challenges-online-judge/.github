@@ -3,6 +3,6 @@
     "description": "toj organization ci starter workflow",
     "filePatterns": [
         "package.json$",
-        "package-lock.json$",
+        "package-lock.json$"
     ]
 }
