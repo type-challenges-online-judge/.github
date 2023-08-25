@@ -1,9 +1,8 @@
 {
-    "name": "toj organization workflow",
-    "description": "toj organization ci starter workflow",
+    "name": "TOJ 조직의 CI 워크플로우 템플릿입니다.",
+    "description": "Lint, Test, Build Check",
     "filePatterns": [
         "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
+        "package-lock.json$",
     ]
 }
