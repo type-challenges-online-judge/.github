@@ -1,6 +1,6 @@
 {
-    "name": "TOJ Organization's CI workflow starter template",
-    "description": "Lint, Test, Build Check",
+    "name": "toj organization workflow",
+    "description": "toj organization ci starter workflow",
     "filePatterns": [
         "package.json$",
         "package-lock.json$",
