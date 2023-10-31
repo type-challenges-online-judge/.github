@@ -41,8 +41,8 @@ TOJ는 **Type-challenge Online Judge** 의 줄임말로
 제공하는 웹 서비스 입니다.
 
 
-&nbsp; &nbsp; &nbsp; &nbsp;[🌐 배포 사이트](https://toj-fe.vercel.app/) &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;[🗒️ 팀 Notion](https://efficacious-snout-c37.notion.site/TOJ-d2c2136a5ee1451099ea7618436028f0?pvs=4) &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;
-[✍️ 백로그,스프린트](https://docs.google.com/spreadsheets/d/1YRG5IQeLVcm4QQxgQkdtO_R742IVgMWYD6CZZtkFcQA/edit#gid=1918285500)
+&nbsp; &nbsp; &nbsp; &nbsp;[🌐 배포 사이트](https://toj-fe.vercel.app/) &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;[🔆Wiki](https://github.com/type-challenges-online-judge/.github/wiki) &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp;
+[✍️ 백로그,스프린트](https://docs.google.com/spreadsheets/d/1YRG5IQeLVcm4QQxgQkdtO_R742IVgMWYD6CZZtkFcQA/edit#gid=1918285500) &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; [🗒️ 팀 Notion](https://efficacious-snout-c37.notion.site/TOJ-d2c2136a5ee1451099ea7618436028f0?pvs=4)
 
 
 <br />
